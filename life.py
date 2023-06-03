@@ -1,3 +1,4 @@
+#This script was created with assistance from GPT4
 import pygame
 import numpy as np
 
@@ -81,3 +82,4 @@ while True:
 
     pygame.display.flip()
     clock.tick(1)
+    
